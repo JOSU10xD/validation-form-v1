@@ -12,7 +12,7 @@ body {
     width: 500px;
     margin: 15vh auto 0 auto;
     padding: 20px;
-    background : linear-gradient(120deg, rgb(156, 75, 172) 0%, rgb(250, 167, 242) 100%);
+    background : white;
     border-radius: 6px;
     font-size: 20px;
 }
